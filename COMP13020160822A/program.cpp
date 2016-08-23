@@ -9,8 +9,10 @@ int main()
 {
 
 	cout << "Welcome to C++" << endl;
-	cout << "Welcome to Computer Science" << endl;
-	cout << "Programming is fun" << endl;
+	cout << "Welcome to C++" << endl;
+	cout << "Welcome to C++" << endl;
+	cout << "Welcome to C++" << endl;
+	cout << "Welcome to C++" << endl;
 
 	return 0;
 }
